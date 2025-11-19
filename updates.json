@@ -1,0 +1,7 @@
+{
+  "version": "v1.1.0",
+  "download_url": "https://github.com/Fuzzy333/fuzzyac-releases/releases/download/v1.1.0/FuzzyAC_Graphics_v1.1.0.zip",
+  "changelog": "• Полностью переработано определение комплектующих\n• Исправлены баги с интерфейсом\n• Добавлены новые пресеты графики",
+  "release_date": "2024-01-15",
+  "critical": false
+}
