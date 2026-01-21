@@ -1,0 +1,13 @@
+{
+  "licenses": [
+    {
+      "key": "ABC123DEF456GHI789JKL012MNO345PQR",
+      "telegram_id": 123456789,
+      "telegram_username": "username",
+      "created_at": "2024-01-15T10:30:00",
+      "expires": "2024-02-14T10:30:00",
+      "machine_id": "A1B2C3D4E5F6G7H8",
+      "status": "active"
+    }
+  ]
+}
